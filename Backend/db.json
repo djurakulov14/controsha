@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "Сохиб Курбон",
+      "salary": 800,
+      "increase": false,
+      "rise": true,
+      "id": 1
+    },
+    {
+      "name": "Шахзод Хамидов",
+      "salary": 3000,
+      "increase": true,
+      "rise": true,
+      "id": 2
+    },
+    {
+      "name": "Далер Шарифкулов",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 3
+    },
+    {
+      "name": "Бекзод Хамидов",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 4
+    },
+    {
+      "name": "Алишер Мардиев",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 5
+    },
+    {
+      "name": "Мухаммад",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 6
+    },
+    {
+      "name": "Сабина Яковлева",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 7
+    },
+    {
+      "name": "Руфина",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 8
+    },
+    {
+      "name": "Хуршида",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 9
+    },
+    {
+      "name": "Ориф",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 11
+    },
+    {
+      "name": "Влад Цой",
+      "salary": 5000,
+      "increase": true,
+      "rise": false,
+      "id": 13
+    },
+    {
+      "id": 0.4049547525198003,
+      "increase": false,
+      "rise": false,
+      "name": "sardor",
+      "salary": "2000"
+    }
+  ]
+}
